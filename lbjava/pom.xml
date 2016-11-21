@@ -28,7 +28,7 @@
 		<dependency>
 			<groupId>edu.illinois.cs.cogcomp</groupId>
 			<artifactId>illinois-inference</artifactId>
-			<version>0.6.0</version>
+			<version>0.9.0-singleprecision</version>
 		</dependency>
 		<dependency>
 			<groupId>nz.ac.waikato.cms.weka</groupId>
